@@ -36,16 +36,16 @@ These are **distinct products and engineering workstreams** — not 20 versions 
 
 | Product | What it solves — in plain English | Read the story |
 | --- | --- | --- |
-| **Hamava Design · هم‌آوا دیزاین** | Connect building and ELV design decisions to quantities and downstream project work | [Design vision & scope](docs/portfolio/products.md#hamava-design) |
-| **Furnish · هم‌آوا فرنیش** | Help cabinet/interior teams organize design, material choices, preview and customer approvals | [Furnish explained](docs/portfolio/products.md#furnish) |
-| **XRM / XRM-ME** | Connect organizations, customer relationships, assets, work and permissions instead of juggling disconnected records | [XRM explained](docs/portfolio/products.md#xrm-and-xrm-me) |
-| **HamDirect · همدایرکت** | Design Instagram comment-to-message engagement rules with page access controls and safe previews | [HamDirect explained](docs/portfolio/products.md#hamdirect) |
-| **VISISTECH** | Make technical network and ELV product discovery and purchasing clearer | [Commerce explained](docs/portfolio/products.md#visistech-commerce) |
-| **HamavaYar · هم‌آوا یار** | Support employee attendance, tasks, work reports and performance workflows | [Workforce explained](docs/portfolio/products.md#hamavayar-workforce) |
+| **Hamava Design · هم‌آوا دیزاین** | Connect building and ELV design decisions to quantities and downstream project work | [Design vision & scope](../docs/portfolio/products.md#hamava-design) |
+| **Furnish · هم‌آوا فرنیش** | Help cabinet/interior teams organize design, material choices, preview and customer approvals | [Furnish explained](../docs/portfolio/products.md#furnish) |
+| **XRM / XRM-ME** | Connect organizations, customer relationships, assets, work and permissions instead of juggling disconnected records | [XRM explained](../docs/portfolio/products.md#xrm-and-xrm-me) |
+| **HamDirect · همدایرکت** | Design Instagram comment-to-message engagement rules with page access controls and safe previews | [HamDirect explained](../docs/portfolio/products.md#hamdirect) |
+| **VISISTECH** | Make technical network and ELV product discovery and purchasing clearer | [Commerce explained](../docs/portfolio/products.md#visistech-commerce) |
+| **HamavaYar · هم‌آوا یار** | Support employee attendance, tasks, work reports and performance workflows | [Workforce explained](../docs/portfolio/products.md#hamavayar-workforce) |
 | **Hamava Support** | Give customers a support portal while keeping operational tickets connected to CRM | [Support case study](https://github.com/HamavaELV/customer-support-crm-case-study) |
 | **VISIS Platform** | Connect ELV consultation and customer journeys with engineering network mapping | [Engineering case study](https://github.com/HamavaELV/elv-platform-network-mapping-case-study) |
-| **ShenavaPlus** | Explore digital experiences for swimming classes and coaching | [Project status](docs/portfolio/products.md#shenavaplus) |
-| **Hamava Sakht** | A construction-operation platform workstream | [Project status](docs/portfolio/products.md#hamava-sakht) |
+| **ShenavaPlus** | Explore digital experiences for swimming classes and coaching | [Project status](../docs/portfolio/products.md#shenavaplus) |
+| **Hamava Sakht** | A construction-operation platform workstream | [Project status](../docs/portfolio/products.md#hamava-sakht) |
 
 **Behind the scenes:** Our private repositories also include integration services, workflow infrastructure and component-specific codebases. Repository visibility is **not** the same as whether a product is available to customers.
 
@@ -53,7 +53,7 @@ These are **distinct products and engineering workstreams** — not 20 versions 
 
 Our 2026 *Software Ecosystem Catalog* describes twelve specialized modules organized around a shared XRM model, spanning **design, procurement, construction, back office, collaboration and maintenance**. These modules are a **product architecture/roadmap**, not a list of twelve independently verified production releases.
 
-[See all 12 modules, their users, inputs and outputs](docs/portfolio/ecosystem.md)
+[See all 12 modules, their users, inputs and outputs](../docs/portfolio/ecosystem.md)
 
 ## Public case studies | نمونه‌کارهای قابل مشاهده
 
@@ -87,7 +87,7 @@ We deliberately distinguish:
 - **Verified in source** — functionality evidenced in a repository.
 - **Released / Live** — requires independent deployment and acceptance evidence.
 
-No roadmap item is automatically a shipped feature. See [portfolio status and repository map](docs/portfolio/repository-map.md) for exact code locations and review notes.
+No roadmap item is automatically a shipped feature. See [portfolio status and repository map](../docs/portfolio/repository-map.md) for exact code locations and review notes.
 
 ## Work with us | همکاری با هم‌آوا
 
